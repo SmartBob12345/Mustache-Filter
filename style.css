@@ -1,0 +1,23 @@
+body{
+    background-image: url(mustachebrackoung.png);
+}
+header{
+    font-size: 50px;
+    width: 25%;
+    letter-spacing: 4px;
+    background-color: rgb(26, 95, 53);
+    margin-top: 15px;
+    border-radius: 15px;
+    padding: 10px;
+    outline-style: dashed;
+    outline-width: 4px;
+    outline-color: rgb(51, 132, 63);
+    outline-offset: 5px;
+    border-style: double;
+    border-width: 5px;
+    border-color: rgb(154, 235, 151);
+}
+canvas{
+    border-width: 10px;
+    border-color: green;
+}
